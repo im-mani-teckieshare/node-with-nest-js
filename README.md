@@ -1,37 +1,21 @@
-# node-with-nest-js
+# Node File Process
 
-## Description
+## Backend
+clone here [Github](https://github.com/ramanasathish/node-file-process.git) <br/>
+cd node-file-process <br/>
+npm install <br/>
+npm start <br>
+
+<b> I configured the PORT as 8080 </b>
+
+## Frontend
+clone here [Github](https://github.com/ramanasathish/react-file-process.git)<br/>
+cd node-file-process <br/>
+npm install <br/>
+npm start
+
+<br/>
+For any Queries, Please free to contact me (er.ramanan.cse@gmail.com)
 
 
 
-## Installation
-
-```bash
-$ npm install
-```
-
-## Running the app
-
-```bash
-# development
-$ npm run start
-
-# watch mode
-$ npm run start:dev
-
-# production mode
-npm run start:prod
-```
-
-## Test
-
-```bash
-# unit tests
-$ npm run test
-
-# e2e tests
-$ npm run test:e2e
-
-# test coverage
-$ npm run test:cov
-```
