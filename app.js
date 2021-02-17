@@ -17,6 +17,7 @@ app.use(bodyParser.json());
 app.use(bodyParser.urlencoded({ extended: false }));
 app.use(logger('dev'));
 app.use(loginRoutes)
+app.use(auth)
 app.use('/users', userRoutes);
 app.use('/organizations', orgRoutes);
 app.use((_, res) => {
